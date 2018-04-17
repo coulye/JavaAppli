@@ -1,0 +1,2 @@
+# JavaAppli
+application spendmanager
